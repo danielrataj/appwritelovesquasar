@@ -1,0 +1,26 @@
+{
+  "vetur.validation.template": false,
+  "vetur.format.enable": false,
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "vue"],
+
+  "vetur.experimental.templateInterpolationService": true,
+  "grammarly.overrides": [
+    {
+      "files": [
+        "**/README.md"
+      ],
+      "config": {
+        "audience": "general",
+        "dialect": "american",
+        "domain": "general",
+        "emotions": [
+          "neutral"
+        ],
+        "goals": [
+          "inform",
+          "describe"
+        ]
+      }
+    }
+  ]
+}

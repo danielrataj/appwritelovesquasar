@@ -1,0 +1,11 @@
+// app global css in SCSS form
+
+// quicksand font
+@font-face {
+  font-family: quicksand;
+  src: url(/fonts/Quicksand-VariableFont_wght.ttf);
+}
+
+* {
+  font-family: 'quicksand';
+}
